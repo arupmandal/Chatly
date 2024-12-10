@@ -1,0 +1,18 @@
+ Volume in drive E has no label.
+ Volume Serial Number is FC3E-044A
+
+ Directory of E:\Final Year Projects\Test No Dec\fullstack-chat-app\frontend\src
+
+10-12-2024  09:30    <DIR>          .
+10-12-2024  09:30    <DIR>          ..
+07-12-2024  10:28             1,629 App.jsx
+07-12-2024  10:28    <DIR>          components
+07-12-2024  10:28    <DIR>          constants
+07-12-2024  10:28                62 index.css
+07-12-2024  10:28    <DIR>          lib
+07-12-2024  10:28               341 main.jsx
+07-12-2024  10:28    <DIR>          pages
+10-12-2024  09:30               156 print.txt
+07-12-2024  10:28    <DIR>          store
+               4 File(s)          2,188 bytes
+               7 Dir(s)  47,955,030,016 bytes free
